@@ -1,5 +1,6 @@
 # Snake-Game
-Your usual Snake game, made in Python
+Your usual Snake game, made in Python.
+<br/>
 To run the game, make sure you have an IDE that can run Python scripts
 
 # Images
